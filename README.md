@@ -1,3 +1,6 @@
+![prems_banner](https://user-images.githubusercontent.com/63343297/154111884-86ad03ad-6838-402e-977a-a20dcafcd684.png)
+
+
 ### Hello there 👋, I am Prem Jha
 
 🌱 I’m currently learning Tableau
