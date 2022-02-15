@@ -18,4 +18,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenserebel&theme=synthwave&hide=jupyter%20notebook&layout=compact)](https://github.com/tenserebel/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=tenserebel&color=dc143c)
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tenserebel)](https://github.com/tenserebel/github-readme-stats) -->
