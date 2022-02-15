@@ -17,3 +17,5 @@
 [![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenserebel&count_private=true&show_icons=true&theme=synthwave)](https://github.com/tenserebel/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenserebel&theme=synthwave&hide=jupyter%20notebook&layout=compact)](https://github.com/tenserebel/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tenserebel)](https://github.com/tenserebel/github-readme-stats)
