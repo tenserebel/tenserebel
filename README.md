@@ -14,6 +14,6 @@
 ⚡ Fun fact: I can Solve 4 types of Rubik's cube. 
 
 
-[![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenserebel&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/tenserebel/github-readme-stats)
+[![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenserebel&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/tenserebel/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenserebel&layout=compact&theme=gruvbox)](https://github.com/tenserebel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenserebel&layout=compact&theme=tokyonight)](https://github.com/tenserebel/github-readme-stats)
