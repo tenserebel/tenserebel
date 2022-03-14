@@ -7,7 +7,7 @@
 
 👯 I’m looking to collaborate on Machine Learning and Data analysis
 
-🤔 I’m looking for help with Machine Learning
+🤔 I’m looking for help with Frontend
 
 📫 How to reach me: premjha3010@gmail.com
 
