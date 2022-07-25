@@ -3,7 +3,7 @@
 
 ### Hello there 👋, I am Prem Jha
 
-🌱 I’m currently learning Tableau
+🌱 I’m currently learning Flutter
 
 👯 I’m looking to collaborate on Machine Learning and Data analysis
 
