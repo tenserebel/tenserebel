@@ -11,7 +11,7 @@
 
 📫 How to reach me: premjha3010@gmail.com
 
-⚡ Fun fact: I can Solve 4 types of Rubik's cube. 
+⚡ Fun fact: I can solve 4 types of Rubik's cube. 
 
 
 
